@@ -1,2 +1,3 @@
 ## Integrantes: 
-Ale
+- Andrés Eleazar Hernández García
+  
